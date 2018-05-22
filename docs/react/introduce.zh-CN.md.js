@@ -1,1 +1,1 @@
-webpackJsonp([15],{1013:function(e,t){e.exports={content:["article",["blockquote",["p","\u4ecb\u7ecd\u7ec4\u4ef6\u4f7f\u7528\u65b9\u6cd5"]]],meta:{order:0,title:"DUI-mobile of React",filename:"docs/react/introduce.zh-CN.md"},toc:["ul"]}}});
+webpackJsonp([21],{1025:function(e,t){e.exports={content:["article",["blockquote",["p","\u4ecb\u7ecd\u7ec4\u4ef6\u4f7f\u7528\u65b9\u6cd5"]]],meta:{order:0,title:"DUI-mobile of React",filename:"docs/react/introduce.zh-CN.md"},toc:["ul"]}}});
